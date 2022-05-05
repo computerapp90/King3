@@ -1,5 +1,5 @@
 /* Moralis init code */
-const serverUrl = "https://w2er5emimfpx.usemoralis.com:2053/server;
+const serverUrl = "https://w2er5emimfpx.usemoralis.com:2053/server";
 const appId = "CGKC1uR33ZDoEpfoqf1I3eOvLot15uSWhNPT6ZP6";
 Moralis.start({ serverUrl, appId });
 
